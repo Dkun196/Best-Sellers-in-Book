@@ -1,9 +1,8 @@
 # Best Sellers in Book
 
-Each of the member scracthing data from different website. 
+Data mining & Analysis
 
-	Yudi Wang:
-  	1. Scratching data from the Web page 'https://opentrolley.com.sg/Home.aspx'. 
+  	1. Scratching data from the Web page 
     		- web_crawlers_Yudi.py: data-scratch (data-preprocessing). 
   	2. Data Processing 
 		Get the data: Fiction, Bible, Psychology, Philosophy, Medical
